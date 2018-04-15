@@ -1,0 +1,8 @@
+
+@keyframes tubes-rotate {
+  0%{transform: rotate(0);border-top-color: #F44336;border-right-color :transparent;border-bottom-color:transparent;border-left-color: transparent;}
+  25%{transform: rotate(360deg); border-top-color: transparent ;border-right-color:#1976D2;border-bottom-color:transparent;border-left-color: transparent;}
+  50%{transform: rotate(360deg);  border-top-color: transparent ;border-right-color :transparent;border-bottom-color: #009688;border-left-color: transparent;}
+  75%{transform: rotate(360deg);  border-top-color: transparent ;border-right-color :transparent;border-bottom-color:transparent;border-left-color: #FFEB3B;}
+  100%{transform: rotate(360deg); border-top-color: #F44336 ;border-right-color :transparent;border-bottom-color:transparent;border-left-color: transparent;}
+} ;
